@@ -10,7 +10,7 @@ const Hero = () => {
       className="relative h-96 flex items-center justify-center mb-16 bg-gradient-to-r from-black via-gray-900 to-black"
     >
       {/* Content */}
-      <div className="text-center px-4">
+      <div className="text-center px-4 mt-10">
         <h1 className="text-4xl md:text-5xl font-bold text-white mb-4">
           Discover Live Music in Sri Lanka
         </h1>
